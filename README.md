@@ -1,5 +1,5 @@
 # Posters
-Repository containing my posters for poster presentations at various conferences.
+Repository containing my posters for presentations at various conferences.
 
 ## List
 
