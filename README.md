@@ -3,7 +3,7 @@ Repository containing my posters for presentations at various conferences. Poste
 
 ## List
 
-- [**M. Visconti di Oleggio Castello**, S. A. Nastase, M. I. Gobbini, J. V. Haxby, and Y. O. Halchenko. Finding cortical patches of shared representations: a comparison of clustering algorithms on representational geometries, and the effect of cross­validation to reduce physiological noise. Society for Neuroscience, Chicago, October 2015.](https://www.dartmouth.edu/~mvisconti/media/poster/VN+SFN15.pdf)
+- **M. Visconti di Oleggio Castello**, S. A. Nastase, M. I. Gobbini, J. V. Haxby, and Y. O. Halchenko. [Finding cortical patches of shared representations: a comparison of clustering algorithms on representational geometries, and the effect of cross­validation to reduce physiological noise.](https://www.dartmouth.edu/~mvisconti/media/poster/VN+SFN15.pdf) Society for Neuroscience, Chicago, October 2015.
 - [**M. Visconti di Oleggio Castello**, and M. I. Gobbini. Familiar Face Detection in 180ms. Annual Meeting of the Cognitive Neuroscience Society, San Francisco, March 2015.](https://www.dartmouth.edu/~mvisconti/media/poster/VG+CNS15.pdf)
 - [**M. Visconti di Oleggio Castello**\*, S. A. Nastase\*, J. V. Haxby, M. I. Gobbini, and Y. O. Halchenko. Clustering Cortical Searchlights Based on Shared Representational Geometry. Organization for Human Brain Mapping, Honolulu, June 2015.](https://www.dartmouth.edu/~mvisconti/media/poster/VN+OHBM15.pdf)
 - [**M. Visconti di Oleggio Castello**, and M. I. Gobbini. Familiar Face Detection in 180ms. Annual Meeting of the Cognitive Neuroscience Society, San Francisco, March 2015.](https://www.dartmouth.edu/~mvisconti/media/poster/VG+CNS15.pdf)
