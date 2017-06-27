@@ -3,7 +3,7 @@ Repository containing my posters for presentations at various conferences. Poste
 
 ## List
 
-- **M. Visconti di Oleggio Castello**, N. Weisz, M. Ida Gobbini. [Allocation of attention to personally familiar and stranger faces over time](http://mvdoc.me/media/poster/VNG+OHBM17.png) Annual Meeting of the Organization for Human Brain Mapping, Toronto, Canada, June 2017.
+- **M. Visconti di Oleggio Castello**, N. Weisz, M. Ida Gobbini. [Allocation of attention to personally familiar and stranger faces over time](http://mvdoc.me/media/poster/VWG+OHBM17.pdf) Annual Meeting of the Organization for Human Brain Mapping, Toronto, Canada, June 2017.
 - **M. Visconti di Oleggio Castello**, Y. O. Halchenko, J. Swaroop Guntupalli, Jason D. Gors, M. Ida Gobbini. [Investigating the Face Processing Network using MVPA](http://mvdoc.me/media/poster/VH+CNS17.png) Annual Meeting of the Cognitive Neuroscience Society, San Francisco, March 2017.
 - **M. Visconti di Oleggio Castello**, S. A. Nastase, M. I. Gobbini, J. V. Haxby, and Y. O. Halchenko. [Finding cortical patches of shared representations: a comparison of clustering algorithms on representational geometries, and the effect of cross­validation to reduce physiological noise.](http://mvdoc.me/media/poster/VN+SFN15.pdf) Society for Neuroscience, Chicago, October 2015.
 - **M. Visconti di Oleggio Castello**\*, S. A. Nastase\*, J. V. Haxby, M. I. Gobbini, and Y. O. Halchenko. [Clustering Cortical Searchlights Based on Shared Representational Geometry.](http://mvdoc.me/media/poster/VN+OHBM15.pdf) Organization for Human Brain Mapping, Honolulu, June 2015.
